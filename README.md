@@ -31,7 +31,7 @@
 
 ###
 
-<div align="center">
+<div align="left">
   <img src="https://github-readme-stats-fast.vercel.app/api/top-langs/?username=kidzyaka&layout=compact"
 </div>
 
